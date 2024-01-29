@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\jayan\source\repos\Project1\Project1\main.h(5,9): error C2059: syntax error: '{'
+  (compiling source file 'main.cpp')
+  
+C:\Users\jayan\source\repos\Project1\Project1\main.h(5,9): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Users\jayan\source\repos\Project1\Project1\main.cpp(2,1): error C1004: unexpected end-of-file found

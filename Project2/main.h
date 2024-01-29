@@ -4,7 +4,7 @@
 #include <queue>
 
 using namespace std;
-
+//small change
 // Print the queue
 void showq(queue<int> gq)
 {
